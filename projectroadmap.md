@@ -1,0 +1,10 @@
+- [x] Create code repository on Github
+- [x] Create Readme
+- [x] Create the project roadmap.
+- [ ] Assign assignment goals for each teammate.
+- [x] Evaluate https://github.com/JiajunJasonLi/grade_calculator to decide if it should be assimlated into the project or not.
+- [ ] Evaluate https://github.com/ksu-is/simple-python-grade-calculatorto decide if it should be assimlated into the project or not.
+- [ ] Reevaluate autopredectior.py from JiajunJasonLi to decide if could be used to enhance project outcome.
+- [ ] Design and write code for the user interface side including text prompts and user imputs.
+- [ ] Write code to read and write the external files as well as multiply, divide, and add the user imputs.
+- [ ] Test code thouroughly to ensure there are no bugs or errors in the code. 
